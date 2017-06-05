@@ -1,2 +1,3 @@
 # extract_feature
-this is a cpp can extract a  image feature  use caffe model.
+
+监控下实时 进行人脸检测、人脸矫正及属性的预测的程序
